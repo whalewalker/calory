@@ -2,12 +2,18 @@ spring:
   application:
     name: calory
   profiles:
-    active: native
+    active: git
   cloud:
     config:
       server:
         native:
-          search-locations: classpath:/config
+          search-locations: classpath:/configser
+        git:
+          search-paths: src/main/resources/config
+          default-label: main
+          uri: https://github.com/whalewalker/calory-configServer
+          skip-ssl-validation: true
+
 
 server:
   port: 8088
