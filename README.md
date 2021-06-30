@@ -33,7 +33,7 @@
 - The application should be available
 
 ## Database Design
-The Database design is hosted [here] (https://dbdiagram.io/d/60db46c7dd6a597148250489)
+The Database design is hosted [here](https://dbdiagram.io/d/60db46c7dd6a597148250489)
 
 ## Api Design 
-The api Documentation is hosted [here] (https://documenter.getpostman.com/view/9430266/TzefAidZ#d4cff8b9-492b-483a-b77b-9baf40c453cd)
+The api Documentation is hosted [here](https://documenter.getpostman.com/view/9430266/TzefAidZ#d4cff8b9-492b-483a-b77b-9baf40c453cd)
